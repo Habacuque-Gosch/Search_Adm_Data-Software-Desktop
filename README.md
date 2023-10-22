@@ -1,4 +1,4 @@
-<h1>SAD(Seaerch Admin Data</h1>
+<h1>SAD(Seaerch Admin Data)</h1>
 
 <h2>Bem vindo(ao) meu repositório</h2>
 
