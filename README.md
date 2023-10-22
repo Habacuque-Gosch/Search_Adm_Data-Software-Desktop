@@ -31,7 +31,9 @@ O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais
 ## Ferramentas utilizadas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SMTP](https://img.shields.io/badge/smtp-%2307405e.svg?style=for-the-badge&logo=SMTP&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-%2307405e.svg?style=for-the-badge&logo=Resquests&logoColor=white)
    
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
