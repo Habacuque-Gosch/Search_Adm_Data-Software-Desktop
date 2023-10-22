@@ -1,1 +1,45 @@
-# SAD-Search_Adm_Data
+<h1>SAD(Seaerch Admin Data</h1>
+
+<h2>Bem vindo(ao) meu repositório</h2>
+
+>Status do projeto: Em Desenvolvimento
+
+## Descrição do projeto
+ <p align="justify">
+O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais, empresas e empreendedores que desejam acessar infomações detalhadas e confiáveis de empresas brasileiras de forma rápida e conveniente. Com uma interface intuitiva e recursos poderosos, o SAD simplifica o processo de obtenção de informações sobre empresas registradas no Brasil.
+<div>
+ 
+## Funcionalidades
+
+:heavy_check_mark: `Funcionalidade 1:` Login
+
+:heavy_check_mark: `Funcionalidade 2:` Cadastro
+
+:heavy_check_mark: `Funcionalidade 3:` Extrair dados detalhado de um CNPJ
+
+:heavy_check_mark: `Funcionalidade 3:` Envio de dados por email
+        
+<video width="420" height="340" controls="controls">
+    <source src="./filme.mp4" type="video/mp4">
+</video>
+ 
+<div align='center'>
+    <h1>Aplicação<h1>
+    <a href="">API Cep Info</a>
+</div>
+            
+## Ferramentas utilizadas
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+
+   
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/gosch_tlgd">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
+ 
+<h2>Guia</h2>
+
