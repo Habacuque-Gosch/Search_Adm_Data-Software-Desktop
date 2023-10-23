@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
  <p align="justify">
-O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais, empresas e empreendedores que desejam acessar infomações detalhadas e confiáveis de empresas brasileiras de forma rápida e conveniente. Com uma interface intuitiva e recursos poderosos, o SAD simplifica o processo de obtenção de informações sobre empresas registradas no Brasil.
+O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais, empresas e empreendedores que desejam acessar infomações detalhadas e confiáveis de empresas brasileiras de forma rápida e conveniente. Com uma interface intuitiva e recursos poderosos, o SAD simplifica o processo de obtenção de informações sobre empresas registradas no Brasil. E também conta com a exportação da consulta via email.
 <div>
  
 ## Funcionalidades
