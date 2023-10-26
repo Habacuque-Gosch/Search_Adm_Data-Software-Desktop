@@ -25,7 +25,7 @@ O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais
  
 <div align='center'>
     <h1>Aplicação<h1>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ec5398fa3ecb021577bf115001d8e213.gif" /></a>
+   <a href=""><img src="" /></a>
 </div>
             
 ## Ferramentas utilizadas
