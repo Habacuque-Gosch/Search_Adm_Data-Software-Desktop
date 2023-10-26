@@ -17,7 +17,9 @@ O SAD(Search Admin Data) é uma ferramenta avançada e eficaz para profissionais
 
 :heavy_check_mark: `Funcionalidade 3:` Extrair dados detalhado de um CNPJ
 
-:heavy_check_mark: `Funcionalidade 3:` Envio de dados por email
+:heavy_check_mark: `Funcionalidade 4:` Envio de dados por email
+
+:heavy_check_mark: `Funcionalidade 5:` Trocar a foto de usuário
         
 <video width="420" height="340" controls="controls">
     <source src="./filme.mp4" type="video/mp4">
